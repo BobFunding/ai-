@@ -1,0 +1,6 @@
+interface:
+  display_name: "모바일 웹앱 동선 설계"
+  short_description: "분야에 맞는 첫 체험과 실행·피드백·반복 동선을 설계하고 구현"
+  default_prompt: "$mobile-webapp-flow를 사용해 내 서비스의 모바일 웹앱을 첫 체험부터 결과 완료까지 설계하고 구현해줘."
+policy:
+  allow_implicit_invocation: true
